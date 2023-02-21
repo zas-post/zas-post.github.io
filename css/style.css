@@ -167,13 +167,13 @@ a:visited {
 
 .form-group input,
 .form-group textarea {
+  opacity: 0.33;
   width: 100%;
   box-sizing: border-box;
   border: none;
   background: transparent;
   border-bottom: 1px solid #ccc;
   color: #000;
-  opacity: 0.33;
   padding: 15px 10px;
   outline: none;
   font-family: inherit;
